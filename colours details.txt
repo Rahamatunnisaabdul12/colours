@@ -1,0 +1,6 @@
+colours details
+pink
+red
+black
+white
+blue
